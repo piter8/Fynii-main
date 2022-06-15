@@ -805,7 +805,7 @@ img {
   -ms-flex-align: center;
   align-items: center;
   width: 100%;
-  overflow: hidden;
+  overflow-y: hidden;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
